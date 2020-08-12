@@ -3,31 +3,31 @@ Hash: SHA256
 
 Architectures: amd64 arm64 armhf
 Codename: stable
-Date: Wed, 12 Aug 2020 14:35:55 +0000
+Date: Wed, 12 Aug 2020 14:36:28 +0000
 MD5Sum:
  28fed935fa382127f63f3013168be85b             2490 Packages
- 6caeba666f777f366a609066ccb689ee             1162 Packages.gz
- fda5148002a6f4804117fd8faa891ce7               88 Release
+ a8b0f04e370f592b0551dce9388e2fbd             1162 Packages.gz
+ fb91b9c1fcecd19f396cd39d48cfbc6b               88 Release
 SHA1:
  06b6a54268200c6617de736efc77e265abac2f04             2490 Packages
- d36d8529787ce116b1124593af011b6e08adc942             1162 Packages.gz
- cb97ffd0b600c3b54626b6e5b1c45c1cc2100371               88 Release
+ 1adac905b4e6c2ac2c352df3f995172b2b927c45             1162 Packages.gz
+ a54a8bea98384ad197e89c8ff235bc80b6be2db5               88 Release
 SHA256:
  98e51e82fe2de1dda27ca5507198fc50a000422642eae694e3c8421fe87564c6             2490 Packages
- b4d2e7fb8a82ea0b63a102ccbbdfa6f3bc6bb22ef7394b5e27e0f7990fd64450             1162 Packages.gz
- adcd8dc3ba7d4a814ffda356afff3675e7de2f0976b54bff1295b96278d8096d               88 Release
+ 591f9e223aa6ceeaa0315fe30c4c2236614751a04a24f6cc548e1977373cb225             1162 Packages.gz
+ 2f11c6dc4826ba087aed44ab445ce3dcbd779e0fb10dcf6f76eedd46c5d53948               88 Release
 SHA512:
  d9e77e8cf53e463588e6af4bade60edeeccbf364407d1a821e15801c3752d0001ab85f1df194029c930389b14471cadf19213a0764eaa38a6dbf589df1a38046             2490 Packages
- e797c7a9908d40f131fdbcaa11830dd49a5c77e9ce1938683625974d030a747083cd50ca1cdb77361617aa04bf819bd3018480318e0150b68a540e4380ca4bbb             1162 Packages.gz
- 6fa0743de28595b33633ab3c2200c390dfa3e8aa4fb08133b2f94240e60832d373c2edfb7cec3af4bb99f2555e877620dfca862f17e210f7cbc5a210d5fedc98               88 Release
+ 299dc1fa432b6dd839cc7be56fbe0df0d3043b8b5da3e58120ca9188135e33232ba22e794acc332da7d53c6e7f4230102303cc669b0b1ce1ca7371ac2d3278bd             1162 Packages.gz
+ 9088d90f30c41049468e6472b08ab729c1e062ce0651d20a81383e6a3c2fda923d43a84cdd70ced79f989d0a78fb81294a18351f89eecf0a0c32e7bcb4456194               88 Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEEo7WEPtcFKcIxYuNodxPm2I7XDZ0FAl8z/ksACgkQdxPm2I7X
-DZ3oXAf/SachLLj2gdTG4bf2lo8uqOOOYhOz7XE1b/PRj4WGb0xRT7lkc5bXFKnD
-JbB19Idwyyz2VlaaOxBeleBEM5sWz9YUpTB3m7OQGpKLGNOxnwc9XMrrHgq3Iar1
-4rnLCSW5YbcoMo0cFza56RSOkoYdllvMqRv9bv3JYq4gvCtSTnub3xaKfSPmhwBF
-2Ini7bGpuZ802rNgIgjsxPFeo2Xp2eO583Rk66ZxpeQgTxjF9bxHgJNCT3p/pipe
-ZBrQi/iRd8UJGMYx6xDVTozCG3KRGJhyHFTWZiyO6QzcMM56SWIJsRya6Mg3RRKZ
-CiEgXP4GCHg/Yx0t6HialwGCnk5z8w==
-=1TVC
+iQEzBAEBCAAdFiEEo7WEPtcFKcIxYuNodxPm2I7XDZ0FAl8z/mwACgkQdxPm2I7X
+DZ2fAAgAgORIvDm/TRS8rvrEcovMNU18fhq8dOAbW71zsIArz2QR9AeooJCQnBCq
+Yxid1CWHXrXkjbsjO1qNWwou4vypkb56LrbD5PN1rNHNW7PG+XD0Dt4SOcodLjNx
+2+37qeMddaG6kgXifN8AWdKWygHgvqi2yGMDUMcR9YyDia+uPiz7rKBZCDZygvVC
+37HRkmxNplI2i8DvDjyA1TRh9vtibIJePwnJJcyPUkT0ZtVNiIAXWASwO4mYMFJ6
+/Sz79OeUkaZMd5XJsdjTSRS87WbDLeAsrePM+Htej7p72MP8JWvADOzTP6chWXcR
+oAIRAEECOqHNd5moei33Z8N8y5lwAQ==
+=FWpl
 -----END PGP SIGNATURE-----
