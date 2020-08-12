@@ -5,4 +5,5 @@ gzip -k -f Packages
 apt-ftparchive release \
    -o APT::FTPArchive::Release::Architectures="amd64 arm64 armhf" \
    -o APT::FTPArchive::Release::Codename="stable" \
+   -o APT::FTPArchive::Release::Suite="stable" \
    . > Release
