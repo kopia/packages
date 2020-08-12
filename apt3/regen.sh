@@ -1,6 +1,9 @@
 #!/bin/bash
-apt-ftparchive packages -a amd64 dists/stable/main/binary-amd64 > dists/stable/main/binary-amd64/Packages
-gzip -k -f dists/stable/main/binary-amd64/Packages
+for a in amd64 arm64 armhf; do
+   apt-ftparchive packages -a $a dists/stable/main/binary-$a > dists/stable/main/binary-$a/Packages
+   gzip -k -f dists/stable/main/binary-$a/Packages
+done
+
 cd dists/stable
 
 apt-ftparchive release \
