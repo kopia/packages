@@ -1,6 +1,6 @@
 #!/bin/bash
 cd dists/stable/main/binary-amd64
-apt-ftparchive packages . > Packages
+apt-ftparchive packages -a amd64 . > Packages
 gzip -k -f Packages
 cd ../..
 apt-ftparchive release \
