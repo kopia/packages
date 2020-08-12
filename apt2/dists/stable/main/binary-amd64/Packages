@@ -33,33 +33,3 @@ Homepage: https://kopia.io
 Description: Fast and secure open source backup.
 Vendor: Kopia Project
 
-Package: kopia
-Architecture: arm64
-Version: 0.6.0
-Maintainer: Kopia Project <kopia-pmc@googlegroups.com>
-Installed-Size: 22336
-Filename: ./kopia_0.6.0_linux_arm64.deb
-Size: 8225088
-MD5sum: d1f1879e6e23afc685b9bc53ee4cca8f
-SHA1: 9e132709086f718423606c7d3fdb35be3c576e8d
-SHA256: 5d81f9d446b9438fa87fb32594e11bd5813e0641be3c54be492007ddd3b88d39
-SHA512: dc404a543e5aeab3f6838381cc2aabbc75344b408bf59e11060c76288c6ac84fb91eea5655d553970c21404af27b3273223df00c8db7ca9d628d5f563bc8ea43
-Homepage: https://kopia.io
-Description: Fast and secure open source backup.
-Vendor: Kopia Project
-
-Package: kopia
-Architecture: armhf
-Version: 0.6.0
-Maintainer: Kopia Project <kopia-pmc@googlegroups.com>
-Installed-Size: 20160
-Filename: ./kopia_0.6.0_linux_armv6.deb
-Size: 8401964
-MD5sum: b0ca69a1b746742bf7e19495d21cabcb
-SHA1: 016e74830c9f97f8825ac6c96f1bbf2614509651
-SHA256: af465f6031457913f46560376ec484c8450046dd25754cae4e034f22c280aa55
-SHA512: edb3e5ce7d0e7ece522e56a5ed6df58088ec648aacaa4eea6bf2b198461b937012729bac4ebd8a3ec889eabedd96f5aafbdfdfe879abf61dc4b2ba9743c55aa9
-Homepage: https://kopia.io
-Description: Fast and secure open source backup.
-Vendor: Kopia Project
-
