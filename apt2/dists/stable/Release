@@ -1,19 +1,19 @@
 Architectures: amd64 arm64 armhf
-Date: Wed, 12 Aug 2020 14:33:19 +0000
-Label: stable
+Codename: stable
+Date: Wed, 12 Aug 2020 14:35:55 +0000
 MD5Sum:
  28fed935fa382127f63f3013168be85b             2490 Packages
- 60b5f54d8d2a655f88fd5012f0d752c3             1162 Packages.gz
- 475983485d2a601d8e7158f1b6324d1b               85 Release
+ 6caeba666f777f366a609066ccb689ee             1162 Packages.gz
+ fda5148002a6f4804117fd8faa891ce7               88 Release
 SHA1:
  06b6a54268200c6617de736efc77e265abac2f04             2490 Packages
- 5321f33323a3f2b6133289a6942405d47a7b6364             1162 Packages.gz
- 164b3f5301edae24068888214db950de5c222fdb               85 Release
+ d36d8529787ce116b1124593af011b6e08adc942             1162 Packages.gz
+ cb97ffd0b600c3b54626b6e5b1c45c1cc2100371               88 Release
 SHA256:
  98e51e82fe2de1dda27ca5507198fc50a000422642eae694e3c8421fe87564c6             2490 Packages
- ff07368d2dbc10d367c1d5735f95ec863f70cb4f2d472cd6f7af16cdbfcfcc5f             1162 Packages.gz
- 066d43d10ec9d5372f8dbf1279b0ffe2ab5c4963745172ea810fdc014a9a7a14               85 Release
+ b4d2e7fb8a82ea0b63a102ccbbdfa6f3bc6bb22ef7394b5e27e0f7990fd64450             1162 Packages.gz
+ adcd8dc3ba7d4a814ffda356afff3675e7de2f0976b54bff1295b96278d8096d               88 Release
 SHA512:
  d9e77e8cf53e463588e6af4bade60edeeccbf364407d1a821e15801c3752d0001ab85f1df194029c930389b14471cadf19213a0764eaa38a6dbf589df1a38046             2490 Packages
- 9dbe4aed73a6bd062e0a8adfd5ee68065bb8190780e987b5f958c7f04404ce14ef595583c95203d721272f215c00e6aef04f5e477780d4da05dcd8935438a2f6             1162 Packages.gz
- e660f847e8365bc3a08174ded38588bed85de97fa9085bad7c2f5c79a9ac6040c2879a3d1262cac4c3b28cf5cb6697d5338a6f136618a9347a8f04dd47ac3424               85 Release
+ e797c7a9908d40f131fdbcaa11830dd49a5c77e9ce1938683625974d030a747083cd50ca1cdb77361617aa04bf819bd3018480318e0150b68a540e4380ca4bbb             1162 Packages.gz
+ 6fa0743de28595b33633ab3c2200c390dfa3e8aa4fb08133b2f94240e60832d373c2edfb7cec3af4bb99f2555e877620dfca862f17e210f7cbc5a210d5fedc98               88 Release
