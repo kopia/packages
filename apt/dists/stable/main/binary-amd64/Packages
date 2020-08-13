@@ -18,6 +18,26 @@ Description:
 License: unknown
 Vendor: Kopia Authors <kopia-pmc@googlegroups.com>
 
+Package: kopia-ui
+Architecture: amd64
+Version: 0.6.1-2099
+Priority: extra
+Section: default
+Maintainer: Kopia Authors <kopia-pmc@googlegroups.com>
+Installed-Size: 311477
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
+Filename: dists/stable/main/binary-amd64/kopia-ui_0.6.1_amd64.deb
+Size: 66494476
+MD5sum: 3e7b990786a32e0ce34bd20b262cc7cc
+SHA1: 1ebaeea9531a5df70b94c050030c8b61d8d0126d
+SHA256: d4b45132df6c77a2fb3ce48cf250913d27e7cd3cb77035eb6146f1e7d3608b36
+SHA512: 4e25da48fdc8a9f89209017691f474dfe25c1eaef50dcb007de45834badbc9084cf09024779f760b25d00bc36aab22c37d070dfa544107b86d61506f750bea44
+Homepage: http://./
+Description: 
+ .
+License: unknown
+Vendor: Kopia Authors <kopia-pmc@googlegroups.com>
+
 Package: kopia
 Architecture: amd64
 Version: 0.6.0
@@ -29,6 +49,21 @@ MD5sum: f2b070f49f79df8b8a1499f27c5fff1d
 SHA1: a6993aa6fe030b1f66bb39d1fc91176c6dcfa907
 SHA256: 1831b143bf9441844bb3526666a9ecfec3b2366852159b53cc0b62b5a7ce0302
 SHA512: 0dcc1cedbd6d3a6fdd195ba23dcb38b308e0f7401a7252e28272d0ca7479d87fdfa872c0b30e788418f0f1a3d74d6441afe29e7568c3b5c001747d7b84850f46
+Homepage: https://kopia.io
+Description: Fast and secure open source backup.
+Vendor: Kopia Project
+
+Package: kopia
+Architecture: amd64
+Version: 0.6.1
+Maintainer: Kopia Project <kopia-pmc@googlegroups.com>
+Installed-Size: 23664
+Filename: dists/stable/main/binary-amd64/kopia_0.6.1_linux_amd64.deb
+Size: 8938478
+MD5sum: 5e6be85df0a765c308959b210e81292d
+SHA1: 4eec0ffb476211a84e85dd70d73327f7914fcac8
+SHA256: f9e752d7cef65fd07066f2df54136c47e375e281e26aa80f9d61c890f565e331
+SHA512: 34ea9d2ffeca5e3299753f50e25df2a7269032a6b31800bc43a8890619ef5bf6867c8e32d45d8e0644e6c26ab0645dbb2afe554f4268dff5cfa0c7182d0c4f91
 Homepage: https://kopia.io
 Description: Fast and secure open source backup.
 Vendor: Kopia Project

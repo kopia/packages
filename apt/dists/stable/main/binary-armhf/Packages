@@ -13,3 +13,18 @@ Homepage: https://kopia.io
 Description: Fast and secure open source backup.
 Vendor: Kopia Project
 
+Package: kopia
+Architecture: armhf
+Version: 0.6.1
+Maintainer: Kopia Project <kopia-pmc@googlegroups.com>
+Installed-Size: 20160
+Filename: dists/stable/main/binary-armhf/kopia_0.6.1_linux_armhf.deb
+Size: 8401964
+MD5sum: 30432782c4334513cdc5ab6bc8d7f6a9
+SHA1: 8840ca5e33b6a2cb7441023325909991e70e7971
+SHA256: c95c71c20e6c14d838f0fffed7722d849babe0a85a40189fb6f0188e472ee57b
+SHA512: 4f752b669ccb2a4a18ee89a724ec399b57933168dd6ca9beed77fc7ff57e92403cf0b5669b9c2d1a577cbbe373e6b245d0acf25af460781f8f282f5c2fff008f
+Homepage: https://kopia.io
+Description: Fast and secure open source backup.
+Vendor: Kopia Project
+
